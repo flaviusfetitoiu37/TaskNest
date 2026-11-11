@@ -1,0 +1,48 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 520' width='800' height='520'>
+<rect width='800' height='520' fill='white'/>
+<rect x='1' y='1' width='798' height='518' fill='none' stroke='#888' stroke-width='2'/>
+<text x='16' y='510' font-family='Arial, Helvetica, sans-serif' font-size='11' fill='#777'>Wireframe: 4. Detalii lista si sarcini</text>
+<rect x='0' y='0' width='800' height='52' rx='0' fill='#555' stroke='#555' stroke-width='1.5'/>
+<text x='20' y='33' font-family='Arial, Helvetica, sans-serif' font-size='20' font-weight='bold' text-anchor='start' fill='white'>TaskNest</text>
+<text x='220' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='start' fill='white'>Pagina principala</text>
+<line x1='220' y1='40' x2='356' y2='40' stroke='#888' stroke-width='1.5'/>
+<text x='386' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#ccc'>Buget</text>
+<text x='456' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#ccc'>Rezervari</text>
+<text x='558' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#ccc'>Statistici</text>
+<text x='780' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='end' fill='white'>Cont v</text>
+<text x='30' y='92' font-family='Arial, Helvetica, sans-serif' font-size='13' font-weight='normal' text-anchor='start' fill='#444'>&lt; Inapoi</text>
+<text x='30' y='122' font-family='Arial, Helvetica, sans-serif' font-size='22' font-weight='bold' text-anchor='start' fill='#333'>Cumparaturi</text>
+<rect x='560' y='98' width='100' height='34' rx='6' fill='#d9d9d9' stroke='#555' stroke-width='1.5'/>
+<text x='610.0' y='120.0' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Invita</text>
+<rect x='670' y='98' width='100' height='34' rx='6' fill='#d9d9d9' stroke='#555' stroke-width='1.5'/>
+<text x='720.0' y='120.0' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Redenumeste</text>
+<text x='30' y='152' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#666'>Membri: Ana (proprietar), Mihai, Ioana</text>
+<rect x='30' y='165' width='560' height='36' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='45' y='188' font-family='Arial, Helvetica, sans-serif' font-size='13' font-weight='normal' text-anchor='start' fill='#777'>Adauga o sarcina noua...</text>
+<rect x='600' y='165' width='100' height='36' rx='6' fill='#555' stroke='#555' stroke-width='1.5'/>
+<text x='650.0' y='188.0' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='white'>Adauga</text>
+<rect x='30' y='215' width='740' height='48' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<rect x='45' y='229' width='20' height='20' rx='3' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='80' y='244' font-family='Arial, Helvetica, sans-serif' font-size='15' font-weight='normal' text-anchor='start' fill='#333'>Lapte</text>
+<text x='300' y='244' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#777'>adaugat de Mihai</text>
+<text x='690' y='244' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#444'>Editeaza</text>
+<text x='745' y='244' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#444'>x</text>
+<rect x='30' y='271' width='740' height='48' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<rect x='45' y='285' width='20' height='20' rx='3' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='80' y='300' font-family='Arial, Helvetica, sans-serif' font-size='15' font-weight='normal' text-anchor='start' fill='#333'>Paine</text>
+<text x='300' y='300' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#777'>adaugat de Ana</text>
+<text x='690' y='300' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#444'>Editeaza</text>
+<text x='745' y='300' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#444'>x</text>
+<rect x='30' y='327' width='740' height='48' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<rect x='45' y='341' width='20' height='20' rx='3' fill='#555' stroke='#888' stroke-width='1.5'/>
+<text x='80' y='356' font-family='Arial, Helvetica, sans-serif' font-size='15' font-weight='normal' text-anchor='start' fill='#999'>Oua</text>
+<text x='300' y='356' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#777'>finalizat de Ioana</text>
+<text x='690' y='356' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#444'>Editeaza</text>
+<text x='745' y='356' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#444'>x</text>
+<rect x='30' y='383' width='740' height='48' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<rect x='45' y='397' width='20' height='20' rx='3' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='80' y='412' font-family='Arial, Helvetica, sans-serif' font-size='15' font-weight='normal' text-anchor='start' fill='#333'>Detergent</text>
+<text x='300' y='412' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#777'>termen: 15 nov.</text>
+<text x='690' y='412' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#444'>Editeaza</text>
+<text x='745' y='412' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#444'>x</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 440' width='800' height='440'>
+<rect width='800' height='440' fill='white'/>
+<rect x='1' y='1' width='798' height='438' fill='none' stroke='#888' stroke-width='2'/>
+<text x='16' y='430' font-family='Arial, Helvetica, sans-serif' font-size='11' fill='#777'>Wireframe: 7. Fluxul de navigare</text>
+<rect x='40' y='60' width='190' height='56' rx='8' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='135' y='93' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Autentificare</text>
+<rect x='40' y='200' width='190' height='56' rx='8' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='135' y='233' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Inregistrare</text>
+<rect x='260' y='130' width='190' height='56' rx='8' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='355' y='154' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Pagina principala</text>
+<text x='355' y='172' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>(liste)</text>
+<rect x='500' y='60' width='190' height='56' rx='8' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='595' y='84' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Detalii lista</text>
+<text x='595' y='102' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>si sarcini</text>
+<rect x='500' y='170' width='190' height='56' rx='8' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='595' y='203' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Buget</text>
+<rect x='500' y='280' width='190' height='56' rx='8' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='595' y='313' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Rezervari</text>
+<rect x='500' y='360' width='190' height='56' rx='8' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='595' y='393' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Statistici</text>
+<line x1='135' y1='116' x2='135' y2='200' stroke='#888' stroke-width='1.5'/>
+<line x1='135' y1='200' x2='130.7262011976617' y2='190.9592785798294' stroke='#888' stroke-width='1.5'/>
+<line x1='135' y1='200' x2='139.2737988023383' y2='190.9592785798294' stroke='#888' stroke-width='1.5'/>
+<line x1='135' y1='200' x2='135' y2='116' stroke='#888' stroke-width='1.5'/>
+<line x1='135' y1='116' x2='139.2737988023383' y2='125.04072142017061' stroke='#888' stroke-width='1.5'/>
+<line x1='135' y1='116' x2='130.7262011976617' y2='125.04072142017061' stroke='#888' stroke-width='1.5'/>
+<line x1='230' y1='88' x2='260' y2='150' stroke='#888' stroke-width='1.5'/>
+<line x1='260' y1='150' x2='252.2151154568849' y2='143.72341074704045' stroke='#888' stroke-width='1.5'/>
+<line x1='260' y1='150' x2='259.9093145181116' y2='140.0004112012856' stroke='#888' stroke-width='1.5'/>
+<line x1='230' y1='228' x2='260' y2='175' stroke='#888' stroke-width='1.5'/>
+<line x1='260' y1='175' x2='259.2658594271793' y2='184.97301547273133' stroke='#888' stroke-width='1.5'/>
+<line x1='260' y1='175' x2='251.8272540173171' y2='180.76248410865838' stroke='#888' stroke-width='1.5'/>
+<line x1='450' y1='150' x2='500' y2='90' stroke='#888' stroke-width='1.5'/>
+<line x1='500' y1='90' x2='497.4954943697683' y2='99.68129389844859' stroke='#888' stroke-width='1.5'/>
+<line x1='500' y1='90' x2='490.9290480004202' y2='94.20925525732515' stroke='#888' stroke-width='1.5'/>
+<line x1='450' y1='160' x2='500' y2='198' stroke='#888' stroke-width='1.5'/>
+<line x1='500' y1='198' x2='490.2161152535614' y2='195.9322477739329' stroke='#888' stroke-width='1.5'/>
+<line x1='500' y1='198' x2='495.3881235417611' y2='189.1269737105122' stroke='#888' stroke-width='1.5'/>
+<line x1='450' y1='170' x2='500' y2='305' stroke='#888' stroke-width='1.5'/>
+<line x1='500' y1='305' x2='492.85227813329766' y2='298.00642637014056' stroke='#888' stroke-width='1.5'/>
+<line x1='500' y1='305' x2='500.86777719424805' y2='295.037723014233' stroke='#888' stroke-width='1.5'/>
+<line x1='450' y1='180' x2='500' y2='385' stroke='#888' stroke-width='1.5'/>
+<line x1='500' y1='385' x2='493.70566272576673' y2='377.22945830213894' stroke='#888' stroke-width='1.5'/>
+<line x1='500' y1='385' x2='502.00982764644397' y2='375.204052223925' stroke='#888' stroke-width='1.5'/>
+<text x='40' y='330' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#666'>Din bara de navigare, utilizatorul poate trece direct</text>
+<text x='40' y='348' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#666'>intre Pagina principala, Buget, Rezervari si Statistici.</text>
+</svg>

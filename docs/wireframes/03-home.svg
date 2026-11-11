@@ -1,0 +1,35 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 520' width='800' height='520'>
+<rect width='800' height='520' fill='white'/>
+<rect x='1' y='1' width='798' height='518' fill='none' stroke='#888' stroke-width='2'/>
+<text x='16' y='510' font-family='Arial, Helvetica, sans-serif' font-size='11' fill='#777'>Wireframe: 3. Pagina principala (liste)</text>
+<rect x='0' y='0' width='800' height='52' rx='0' fill='#555' stroke='#555' stroke-width='1.5'/>
+<text x='20' y='33' font-family='Arial, Helvetica, sans-serif' font-size='20' font-weight='bold' text-anchor='start' fill='white'>TaskNest</text>
+<text x='220' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='start' fill='white'>Pagina principala</text>
+<line x1='220' y1='40' x2='356' y2='40' stroke='#888' stroke-width='1.5'/>
+<text x='386' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#ccc'>Buget</text>
+<text x='456' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#ccc'>Rezervari</text>
+<text x='558' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='start' fill='#ccc'>Statistici</text>
+<text x='780' y='32' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='normal' text-anchor='end' fill='white'>Cont v</text>
+<text x='30' y='95' font-family='Arial, Helvetica, sans-serif' font-size='20' font-weight='bold' text-anchor='start' fill='#333'>Listele mele</text>
+<rect x='620' y='72' width='150' height='36' rx='6' fill='#555' stroke='#555' stroke-width='1.5'/>
+<text x='695.0' y='95.0' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='white'>+ Lista noua</text>
+<rect x='30' y='125' width='740' height='70' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='50' y='155' font-family='Arial, Helvetica, sans-serif' font-size='16' font-weight='bold' text-anchor='start' fill='#333'>Cumparaturi</text>
+<text x='50' y='178' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#666'>5 sarcini | partajata cu 2 persoane</text>
+<rect x='660' y='143' width='90' height='34' rx='6' fill='#d9d9d9' stroke='#555' stroke-width='1.5'/>
+<text x='705.0' y='165.0' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Deschide</text>
+<rect x='30' y='210' width='740' height='70' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='50' y='240' font-family='Arial, Helvetica, sans-serif' font-size='16' font-weight='bold' text-anchor='start' fill='#333'>Apartament</text>
+<text x='50' y='263' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#666'>3 sarcini | partajata cu 1 persoana</text>
+<rect x='660' y='228' width='90' height='34' rx='6' fill='#d9d9d9' stroke='#555' stroke-width='1.5'/>
+<text x='705.0' y='250.0' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Deschide</text>
+<rect x='30' y='295' width='740' height='70' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='50' y='325' font-family='Arial, Helvetica, sans-serif' font-size='16' font-weight='bold' text-anchor='start' fill='#333'>Facultate</text>
+<text x='50' y='348' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='normal' text-anchor='start' fill='#666'>8 sarcini | personala</text>
+<rect x='660' y='313' width='90' height='34' rx='6' fill='#d9d9d9' stroke='#555' stroke-width='1.5'/>
+<text x='705.0' y='335.0' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='#333'>Deschide</text>
+<rect x='30' y='385' width='740' height='90' rx='4' fill='#f2f2f2' stroke='#888' stroke-width='1.5'/>
+<text x='50' y='415' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='start' fill='#333'>Sarcini cu termen apropiat</text>
+<text x='50' y='440' font-family='Arial, Helvetica, sans-serif' font-size='13' font-weight='normal' text-anchor='start' fill='#333'>[ ] Trimite tema TW - maine</text>
+<text x='50' y='460' font-family='Arial, Helvetica, sans-serif' font-size='13' font-weight='normal' text-anchor='start' fill='#333'>[ ] Plateste chiria - in 3 zile</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 520' width='800' height='520'>
+<rect width='800' height='520' fill='white'/>
+<rect x='1' y='1' width='798' height='518' fill='none' stroke='#888' stroke-width='2'/>
+<text x='16' y='510' font-family='Arial, Helvetica, sans-serif' font-size='11' fill='#777'>Wireframe: 2. Inregistrare</text>
+<text x='400' y='70' font-family='Arial, Helvetica, sans-serif' font-size='28' font-weight='bold' text-anchor='middle' fill='#333'>TaskNest</text>
+<rect x='220' y='90' width='360' height='380' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='250' y='125' font-family='Arial, Helvetica, sans-serif' font-size='18' font-weight='bold' text-anchor='start' fill='#333'>Creeaza cont</text>
+<text x='250' y='145' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='bold' text-anchor='start' fill='#333'>Nume</text>
+<rect x='250' y='151' width='300' height='32' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='260' y='172' font-family='Arial, Helvetica, sans-serif' font-size='13' font-weight='normal' text-anchor='start' fill='#777'>Ana Popescu</text>
+<text x='250' y='205' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='bold' text-anchor='start' fill='#333'>E-mail</text>
+<rect x='250' y='211' width='300' height='32' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='260' y='232' font-family='Arial, Helvetica, sans-serif' font-size='13' font-weight='normal' text-anchor='start' fill='#777'>ana@exemplu.ro</text>
+<text x='250' y='265' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='bold' text-anchor='start' fill='#333'>Parola (minimum 8 caractere)</text>
+<rect x='250' y='271' width='300' height='32' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='260' y='292' font-family='Arial, Helvetica, sans-serif' font-size='13' font-weight='normal' text-anchor='start' fill='#777'>********</text>
+<text x='250' y='325' font-family='Arial, Helvetica, sans-serif' font-size='12' font-weight='bold' text-anchor='start' fill='#333'>Confirma parola</text>
+<rect x='250' y='331' width='300' height='32' rx='4' fill='white' stroke='#888' stroke-width='1.5'/>
+<text x='260' y='352' font-family='Arial, Helvetica, sans-serif' font-size='13' font-weight='normal' text-anchor='start' fill='#777'>********</text>
+<rect x='250' y='392' width='300' height='40' rx='6' fill='#555' stroke='#555' stroke-width='1.5'/>
+<text x='400.0' y='417.0' font-family='Arial, Helvetica, sans-serif' font-size='14' font-weight='bold' text-anchor='middle' fill='white'>Creeaza cont</text>
+<text x='400' y='455' font-family='Arial, Helvetica, sans-serif' font-size='13' font-weight='normal' text-anchor='middle' fill='#444'>Ai deja cont? Autentifica-te</text>
+</svg>
